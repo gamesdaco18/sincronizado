@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Estoy tratando de fusionar las ramas
 Estamos tratando de solucionar conflictos
+=======
+Estoy tratando de resolver conflictos
+>>>>>>> actualizando
