@@ -1,5 +1,6 @@
 from tkinter import *
 
+#Configuracion de la ventana
 root= Tk()
 root.title("Fut Players %")
 root.geometry("400x300")
@@ -10,6 +11,7 @@ root.resizable(0,0)
 opcion = IntVar()
 num = IntVar()
 
+#Declaracion de funcion
 def operacion():
     numero = num.get()
     if opcion.get()==1:
